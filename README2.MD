@@ -22,3 +22,8 @@ When brought back online:
 
 Giving users a fast and easy way to track their money is important, but allowing them to access that information anytime is even more important. Having offline functionality is paramount, which is why developing this app was essential.
 
+## Questions?
+
+Questions about this app? Please feel free to reach out!
+email: Ahab337@yahoo.com
+GitHub: https://github.com/JDavid337
